@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "timeStamp": 1660774462861,
+    "title": "Remera Vintage",
+    "price": 1800,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_725361-MLA44577508246_012021-F.webp"
+  },
+  {
+    "id": 2,
+    "timeStamp": 1660786865656,
+    "title": "CD KungFu",
+    "price": 1500,
+    "thumbnail": "https://www.pezdebuenosaires.com.ar/imagenes/tapas_de_discos/kungfu_grande.jpg"
+  }
+]
